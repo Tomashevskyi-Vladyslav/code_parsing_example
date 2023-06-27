@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
 
-url = r' https://tomashevskyi-vladyslav.github.io/For_lovely_mom/'
+url = r''#Your Link
 
 
 def get_html_new(url=None):
